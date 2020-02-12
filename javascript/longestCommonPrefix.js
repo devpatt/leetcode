@@ -23,6 +23,4 @@ var longestCommonPrefix = function(strs) {
         }
     }
     return output
-    
-    
 };
